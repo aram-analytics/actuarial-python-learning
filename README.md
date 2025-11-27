@@ -1,1 +1,1 @@
-# actuarial-pytho-learning
+# actuarial-python-learning
